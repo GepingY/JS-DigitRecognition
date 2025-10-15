@@ -1,5 +1,5 @@
 # JS-DigitRecognition
-A pure JS code to train/run a model to recognize hand written digits, no library of both external and build-in is used.
+A pure JavaScript code to train/run a model to recognize hand written digits, no library of both external and build-in is used.
 
 ## About
 This is a hello world practise after I learnt the very basic of ANN(Watched a couple video about ANN on youtube). As mentioned above it's pure JS, tested on Node.js, should be working on Web JS as well, but never tested. Trained using the MNIST hand written digit data base
