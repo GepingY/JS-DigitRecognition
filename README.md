@@ -9,4 +9,15 @@ This is a hello world practise after I learnt the very basic of ANN(Watched a co
 Backpropagation + Sigmoid + Squared error + Stochastic Gradient Decent (The code kept the option for Relu but it's not used by default nor any test runs)
 
 ## Performance
-trainning accruecy and test accurecy of around 95% using the MNIST hand wirtten digit data base
+trainning accruecy and test accurecy of around 93.5% using the MNIST hand wirtten digit data base
+
+Output of run.js for training data:
+```
+Sample 60000/60000 | elapsed: 8.4s | ETA: 0.0s | accuracy: 94.78%
+Final Accuracy: 94.78%
+```
+Output of run.js for testing data
+```
+Sample 10000/10000 | elapsed: 1.4s | ETA: 0.0s | accuracy: 93.02%
+Final Accuracy: 93.02%
+```
